@@ -1,0 +1,5 @@
+After writing a MapReduce job, it¡¯s normal to try it out on a small dataset to flush out any
+immediate problems with the code. First, install Hadoop in standalone mode (there are
+instructions for how to do this in Appendix A). This is the mode in which Hadoop runs
+using the local filesystem with a local job runner. Then, install and compile the examples
+using the instructions on the book¡¯s website.
